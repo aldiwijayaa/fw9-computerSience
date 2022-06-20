@@ -1,0 +1,10 @@
+step memasak air
+
+-start
+-Siapkan air dan panci
+-Masukan air kedalam panci
+-Nyalakan kompor atur dengan api sedang
+-Taru panci diatas kompor
+-Tunggu hingga air mendidih
+-Jika air sudah mendidih matikan kompor
+-end

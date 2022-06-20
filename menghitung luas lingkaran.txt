@@ -1,0 +1,11 @@
+step menghitung luas lingkaran
+
+-start
+-Langkah pertama adalah dengan memasukan nilai jari-jari.
+-Berikutnya adalah dengan menetapkan nilai phi sebesar nilainya adalah 3,14.
+-Berikutnya adalah pilihan hitung luas atau lingkaran
+-Jika tampil ”ya”, maka dengan menggunakan rumus Luas = phi * radius ^ 2.
+-Setelah itu tampilkan Luas lingkaran.
+-Opsi yang lain adalah jika ”Tidak”, maka dengan rumus Keliling = 2 * phi * radius.
+-Setelah itu cetak hasil luas lingkaran.
+-end

@@ -1,0 +1,8 @@
+menentukan bilangan ganjil atau genap
+
+-Mulai
+-Masukkan sebuah bilangan
+-Bagi bilangan tersebut dengan bilangan atau angka 2
+-Jika bilangan menghasilkan sisa pembagian 0 maka genap
+-Jika bilangan tidak menghasilkan sisa pembagian 0 maka ganjil
+-Selesai

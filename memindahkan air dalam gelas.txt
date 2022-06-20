@@ -1,0 +1,8 @@
+step memindahkan air dalam gelas
+
+-start
+-Siapkan Gelas Tampung untuk memindah air.
+-Pindahkan air Kopi kedalam Gelas Tampung sehingga air didalam Gelas Kopi akan Kosong.
+-Masukan air Teh kedalam Gelas Kopi. Sehingga air didalam Gelas Teh akan kosong.
+-Masukan air Kopi kedalam Gelas Teh. Sehingga Gelas Tampung akan kosong.
+-end

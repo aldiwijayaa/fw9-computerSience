@@ -1,0 +1,6 @@
+mencari nilai terbesar
+
+start
+-jika x > y maka yang terbersar adalah x
+-jika tidak y merupakan nilai terbersar
+selesai
